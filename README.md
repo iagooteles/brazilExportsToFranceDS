@@ -31,3 +31,14 @@ Após a filtragem dos dados, as seguintes perguntas serão respondidas:
 ## Downloads
 
 - O arquivo `exportacao_full.csv` foi originalmente baixado do site 'kaggle' => 'https://www.kaggle.com/datasets/hugovallejo/brazil-exports' , o mesmo não foi adicionado ao github pelo limite de upload (100 MB)
+
+## Próximas etapas:
+
+- Implementar alguns gráficos com matplotlib;
+- Colocar o dataset em uma pasta assets;
+- Colocar mais análises após cada seção/pergunta/
+- Ver sobre series temporais - associar análise do tempo
+- Fazer análise da importação de cada estado?
+- Tentar analisar os gráficos, e justificar valores por conta de acontecimentos no ano? Por exemplo: Pandemia;
+- Ver subplots;
+- Tebtar descrever outliers (usando bloxplot) e o que torna cada um deles outliers;
