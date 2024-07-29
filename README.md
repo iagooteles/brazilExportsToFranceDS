@@ -41,4 +41,4 @@ Após a filtragem dos dados, as seguintes perguntas serão respondidas:
 - Fazer análise da importação de cada estado?
 - Tentar analisar os gráficos, e justificar valores por conta de acontecimentos no ano? Por exemplo: Pandemia;
 - Ver subplots;
-- Tebtar descrever outliers (usando bloxplot) e o que torna cada um deles outliers;
+- Tentar descrever outliers (usando bloxplot) e o que torna cada um deles outliers;
