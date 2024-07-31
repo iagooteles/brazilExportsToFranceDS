@@ -19,6 +19,7 @@ Após a filtragem dos dados, as seguintes perguntas serão respondidas:
 3. **Quais os produtos mais exportados ao longo de todo o período?**
 4. **Em 2020, qual cidade mais exportou para a França?**
 5. **Quais os produtos mais exportados (em US$) que as 2 maiores cidades (em exportação em 2020) exportaram?**
+6. **Análise de importação por estado em 2020 - Para esta tarefa, foi necessário filtrar as cidades e criar uma nova coluna chamada "Estado", e assim, separar os valores respectivamente, por estado.**
 
 ## Estrutura do Repositório
 
@@ -34,11 +35,7 @@ Após a filtragem dos dados, as seguintes perguntas serão respondidas:
 
 ## Próximas etapas:
 
-- Implementar alguns gráficos com matplotlib;
-- Colocar o dataset em uma pasta assets;
-- Colocar mais análises após cada seção/pergunta/
 - Ver sobre series temporais - associar análise do tempo
-- Fazer análise da importação de cada estado?
-- Tentar analisar os gráficos, e justificar valores por conta de acontecimentos no ano? Por exemplo: Pandemia;
+- Continuar análise da importação de cada estado?
 - Ver subplots;
 - Tentar descrever outliers (usando bloxplot) e o que torna cada um deles outliers;
